@@ -1,0 +1,31 @@
+First Level of Appeal: Redetermination by a Medicare Contractor
+Source: CMS.gov, Original Medicare (Fee-for-Service) Appeals - U.S. Government Work, Public Domain
+
+Any party to the initial claim determination that is dissatisfied with the decision may request a redetermination. A redetermination is a review of the claim by Medicare Administrative Contractor (MAC) personnel not involved in the initial claim determination.
+
+Requesting a Redetermination
+An initial determination decision is communicated on the beneficiary's Medicare Summary Notice (MSN), and on the provider's, physician's and supplier's Remittance Advice (RA). The appellant (the individual filing the appeal) has 120 days from the date of receipt of the initial claim determination to file a redetermination request. The notice of initial determination is presumed to be received 5 calendar days after the date of the notice, unless there is evidence to the contrary.
+
+A redetermination must be requested in writing. There are 2 ways that a party can request a redetermination:
+1. Fill out the form CMS-20027.
+2. Make a written request containing all of the following information: beneficiary name, Medicare number, specific service(s) and/or item(s) for which a redetermination is being requested, specific date(s) of service, name of the party or the representative of the party, and an explanation of why the appellant disagrees with the contractor's determination.
+
+The appellant should include with their redetermination request any and all documentation that supports their argument against the previous decision. A minimum monetary threshold on the claim is not required to request a redetermination. The redetermination request must be sent to the MAC that made the initial claim determination.
+
+Note: MACs do not process claim corrections involving minor errors and omissions through the appeals process.
+
+Dismissal of a Redetermination Request
+A MAC may dismiss a request for a redetermination for various reasons, including:
+1. If the party (or appointed representative) requests to withdraw the appeal.
+2. If there are certain defects, such as: the party fails to file the request within the appropriate timeframe and did not show good cause for late filing; the representative is not appointed properly; or the requestor is not a proper party.
+
+Parties to MAC dismissals have 2 options to dispute the dismissal:
+1. Request that the Qualified Independent Contractor (QIC) review the dismissal.
+2. Request that the MAC vacate the dismissal.
+
+For a QIC review of the dismissal: filing timeframe is 60 days after dismissal receipt; the review criteria is whether the dismissal is correct; if incorrect, the QIC vacates the dismissal and remands the case to the MAC for redetermination; this is not subject to further review.
+
+For a MAC vacate request: filing timeframe is 6 months after the date of dismissal notice; the review criteria is whether there is good and sufficient cause for dismissal; if granted, the MAC vacates the dismissal and issues a redetermination decision; this is not subject to further review.
+
+Redetermination Decision Notification
+Generally, the MAC will send its decision (either in a letter, an RA, and/or an MSN) to all parties within 60 days of receipt of the request for redetermination. The decision will contain detailed information on further appeals rights, where applicable.

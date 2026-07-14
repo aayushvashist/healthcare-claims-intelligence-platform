@@ -1,0 +1,41 @@
+Medicare Change of Status Notice (MCSN) Manual Instructions
+Source: CMS Manual System, Pub 100-04 Medicare Claims Processing, Transmittal 12934 - U.S. Government Work, Public Domain
+Effective Date: November 15, 2024
+
+Background
+Medicare beneficiaries with Original Medicare who have been reclassified by a hospital from an inpatient to an outpatient receiving observation services and meet additional criteria have a right to appeal their status change to a Beneficiary and Family Centered Care-Quality Improvement Organization (BFCC-QIO). This process was implemented through a final rule CMS-4204-F, effective November 15, 2024. The resulting regulations are located at 42 CFR Part 405.1210 through 405.1212.
+
+Scope: Who Qualifies
+The expedited determination process is available to beneficiaries in Original Medicare who, after formally being admitted as an inpatient, have subsequently been reclassified by the hospital as an outpatient receiving observation services. The reclassification must have happened while the beneficiary was still in the hospital, and also met one of the following criteria:
+- For beneficiaries with Medicare Part B, their stay in the hospital must last at least three days.
+- For beneficiaries that do not have Medicare Part B, no three day stay is required to qualify for this expedited appeals process.
+
+Delivery Requirements
+Hospitals must deliver the MCSN to all beneficiaries eligible for the expedited determination process. The hospital must ensure that the beneficiary or representative signs and dates the MCSN to demonstrate that the beneficiary or representative received the notice and understands its contents. Use of assistive devices may be used to obtain a signature. Electronic issuance of the MCSN is permitted, but the beneficiary must be given a paper copy of the MCSN at the time of notice delivery.
+
+Required Delivery Timeframes
+Hospitals must deliver the MCSN as soon as possible after a beneficiary is eligible for this process, but no later than four hours prior to discharge. For beneficiaries with Medicare Part B, the notice must be delivered as soon as possible after the hospital reclassifies the beneficiary from inpatient to outpatient receiving observation services and the third day in the hospital is reached. For beneficiaries without Medicare Part B coverage, hospitals must deliver the notice as soon as possible after the change in status, since a three-day hospital stay is not required for these beneficiaries to be eligible for this expedited appeals process.
+
+Refusal to Sign
+If the beneficiary refuses to sign the MCSN, the hospital should annotate the notice to that effect and indicate the date of refusal on the notice. The date of refusal is considered to be the date of notice receipt. Beneficiaries who refuse to sign the MCSN remain entitled to an expedited determination.
+
+Expedited Determination Process - Timeframes for Requesting
+A beneficiary who receives an MCSN and disagrees with the status change may request an expedited determination by the appropriate BFCC-QIO for the state where the services were provided. The beneficiary must contact the BFCC-QIO before leaving the hospital for a timely request. For untimely requests, the beneficiary may contact the BFCC-QIO at any time, including after a related claim has been filed with the Medicare Administrative Contractor (MAC).
+
+Beneficiary Liability During Review
+A hospital may not bill a beneficiary who has timely filed an expedited determination until the review process is complete.
+
+Hospital Responsibilities
+When a hospital is notified by a BFCC-QIO of a beneficiary request for an expedited determination, the hospital must:
+1. Supply the BFCC-QIO with a copy of the MCSN as soon as possible, but no later than noon of the day after BFCC-QIO notification.
+2. Supply all information, including medical records, requested by the BFCC-QIO.
+3. Furnish the beneficiary, at their request, with access to or copies of any documentation it provides to the BFCC-QIO, by close of business of the first day after the material is requested.
+
+BFCC-QIO Responsibilities and Determination Timeframes
+BFCC-QIOs must be available to receive beneficiary requests for review 24 hours a day, seven days a week. For timely requests (received before the beneficiary leaves the hospital), the BFCC-QIO must make its determination no later than one calendar day after it receives all requested pertinent information from the hospital. For untimely requests (received after the beneficiary leaves the hospital), the BFCC-QIO must make its determination no later than two calendar days after it receives all requested pertinent information from the hospital.
+
+Expedited Reconsiderations
+A beneficiary who is dissatisfied with a BFCC-QIO's expedited determination may request an expedited reconsideration. For timely requests, the beneficiary must contact the BFCC-QIO no later than noon of the calendar day following receipt of the initial notification. For untimely requests, the beneficiary may contact the BFCC-QIO anytime, including after a related claim has been filed with the MAC. For timely reconsideration requests, the BFCC-QIO must make its reconsideration determination no later than two calendar days after it receives all requested pertinent information from the hospital. For untimely requests, this determination must be made no later than three calendar days after receiving all requested information.
+
+Effect of Determination
+The BFCC-QIO determination is binding for payment purposes on the beneficiary, hospital, and MAC, unless the beneficiary pursues an expedited reconsideration.

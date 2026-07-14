@@ -1,0 +1,27 @@
+Second Level of Appeal: Reconsideration by a Qualified Independent Contractor
+Source: CMS.gov, Original Medicare (Fee-for-Service) Appeals - U.S. Government Work, Public Domain
+
+Any party to the redetermination that is dissatisfied with the decision may request a reconsideration. A reconsideration is an independent review of the administrative record, including the initial determination and redetermination, by a Qualified Independent Contractor (QIC).
+
+Requesting a Reconsideration
+The appellant (the individual filing the appeal) has 180 days from the date of receipt of the redetermination decision to file a reconsideration request. The redetermination decision can be communicated through a Medicare Redetermination Notice (MRN), a Medicare Summary Notice (MSN), or a Remittance Advice (RA). The redetermination decision is presumed to be received 5 days after the date on the notice unless there is evidence to the contrary.
+
+A reconsideration must be requested in writing, using either form CMS-20033 or a written request containing: beneficiary's name, beneficiary's Medicare number, specific service(s) and item(s) for which the reconsideration is requested and the specific date(s) of service, name of the party or the authorized or appointed representative, name of the contractor that made the redetermination, and any missing documentation identified in the notice of redetermination.
+
+The request should clearly explain why the appellant disagrees with the redetermination, and be accompanied by any evidence or allegations of fact or law related to the issue(s) in dispute. A minimum monetary threshold is not required to request a reconsideration. Documentation not submitted at the reconsideration level may be excluded from consideration at subsequent levels of appeal unless good cause is shown for not submitting the documentation previously.
+
+QIC Review of a Dismissal of a Redetermination Request
+If a MAC has dismissed a redetermination request, any party to the redetermination has the right to appeal a dismissal to a QIC if they believe the dismissal is incorrect. The request for review must be filed with the QIC within 60 days after the date of receipt of the dismissal. This action is binding and not subject to further review.
+
+Dismissal of a Reconsideration Request
+A QIC may dismiss a reconsideration request if: the party requests to withdraw the appeal; the party fails to file the request within the appropriate timeframe without good cause; the representative is not appointed properly; or the requestor is not a proper party.
+
+Parties to a QIC's dismissal have 2 options if they disagree:
+1. Request review of the dismissal by an Administrative Law Judge (ALJ) or attorney adjudicator at the Office of Medicare Hearings and Appeals (OMHA). Filing timeframe: 60 days after dismissal receipt. A minimum amount in controversy is required.
+2. Request that the QIC vacate the dismissal. Filing timeframe: 6 months after dismissal mailed. No minimum amount in controversy is required.
+
+Reconsideration Decision Notification
+The reconsideration decision will contain detailed information on further appeals rights, where applicable. Generally, the QIC will send this decision to all parties within 60 days of receipt of the request for reconsideration. If the QIC is unable to complete its reconsideration within this timeframe, the QIC must send a notice to the parties and advise the appellant of the right to escalate the appeal to OMHA.
+
+Qualified Independent Contractors (QICs)
+The QICs are organized by jurisdiction: Part A East, Part A West, Part B North, Part B South, and DME. Each jurisdiction is served by a designated contractor (such as C2C Innovative Solutions or Maximus Federal Services) responsible for processing reconsideration requests for that region.

@@ -1,0 +1,10 @@
+Claim Submission Deadlines
+
+Section 1: Standard Submission Window
+All claims must be submitted within 90 days of the date of service. Claims submitted after this window will be automatically denied unless a timely filing exception applies.
+
+Section 2: Timely Filing Exceptions
+Exceptions to the 90-day submission window include delays caused by coordination of benefits with a secondary insurer, retroactive eligibility determinations, and documented system outages on the payer's end. Providers must submit proof of the qualifying exception along with the late claim.
+
+Section 3: Resubmission of Corrected Claims
+Corrected claims resulting from a prior denial must be resubmitted within 60 days of the original denial notice.

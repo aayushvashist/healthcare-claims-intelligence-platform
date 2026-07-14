@@ -1,0 +1,17 @@
+CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F)
+Source: Centers for Medicare & Medicaid Services (CMS.gov) - U.S. Government Work, Public Domain
+Fact Sheet - January 17, 2024
+
+The Centers for Medicare & Medicaid Services (CMS) affirms its commitment to advancing interoperability and improving prior authorization processes with the publication of the CMS Interoperability and Prior Authorization final rule (CMS-0057-F). Through the provisions in this final rule, Medicare Advantage (MA) organizations, state Medicaid and Children's Health Insurance Program (CHIP) Fee-for-Service (FFS) programs, Medicaid managed care plans, CHIP managed care entities, and Qualified Health Plan (QHP) issuers on the Federally Facilitated Exchanges (FFEs), (collectively "impacted payers") are required to implement and maintain certain Health Level 7 (HL7) Fast Healthcare Interoperability Resources (FHIR) application programming interfaces (APIs) to improve the electronic exchange of health care data, as well as to streamline prior authorization processes.
+
+Impacted payers must also implement certain operational provisions, generally beginning January 1, 2026. In response to public comment on the proposed rule, impacted payers have until compliance dates, generally beginning January 1, 2027, to meet the API development and enhancement requirements in this final rule. The exact compliance dates vary by the type of payer.
+
+Prior Authorization API
+Impacted payers are required to implement and maintain a Prior Authorization API that is populated with its list of covered items and services, can identify documentation requirements for prior authorization approval, and supports a prior authorization request and response. These Prior Authorization APIs must also communicate whether the payer approves the prior authorization request (and the date or circumstance under which the authorization ends), denies the prior authorization request (and a specific reason for the denial), or requests more information. This requirement must be implemented beginning January 1, 2027.
+
+Improving Prior Authorization Processes
+Prior Authorization Decision Timeframes: Impacted payers (excluding QHP issuers on the FFEs) must send prior authorization decisions within 72 hours for expedited (i.e., urgent) requests and seven calendar days for standard (i.e., non-urgent) requests.
+
+Provider Notice, Including Denial Reason: Beginning in 2026, impacted payers must provide a specific reason for denied prior authorization decisions, regardless of the method used to send the prior authorization request. Such decisions may be communicated via portal, fax, email, mail, or phone. This provision does not apply to prior authorization decisions for drugs. This requirement is intended to both facilitate better communication and transparency between payers, providers, and patients, as well as improve providers' ability to resubmit the prior authorization request, if necessary.
+
+Prior Authorization Metrics: Impacted payers are required to publicly report certain prior authorization metrics annually by posting them on their website. These operational or process-related prior authorization policies are being finalized with a compliance date starting January 1, 2026, and the initial set of metrics must be reported by March 31, 2026.

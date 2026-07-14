@@ -1,0 +1,10 @@
+Readmission Policy - Cardiac Claims
+
+Section 1: Readmission Window
+For cardiac-related claims, a readmission is defined as any inpatient hospital stay occurring within 30 days of the original discharge date, where the readmission diagnosis is clinically related to the initial admission. Claims falling within this 30-day window require additional documentation before reimbursement approval.
+
+Section 2: Documentation Requirements
+Readmission claims must include a physician summary explaining the clinical relationship between the original admission and the readmission. Claims lacking this summary will be flagged for manual review and may face processing delays of up to 10 business days.
+
+Section 3: Exceptions
+Planned readmissions, such as staged surgical procedures scheduled at the time of initial discharge, are not counted toward the 30-day readmission window and do not require additional documentation.
